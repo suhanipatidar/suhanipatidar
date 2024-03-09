@@ -1,3 +1,5 @@
+![MasterHead](https://camo.githubusercontent.com/c91a24cb484deb772b7cf876b7847886253f6b3872654a50733883802f008e56/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
+
 <h1 align="center">Hi 👋, I'm Suhani Patidar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
